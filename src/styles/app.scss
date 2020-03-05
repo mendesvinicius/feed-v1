@@ -53,12 +53,15 @@ body {
   }
   
   .post {
+    display: flex;
+    flex-direction: column;
     width: 700px;
     padding: 30px;
     border: 1px solid #ccc;
     border-radius: 5px;
     background-color: #ffffff;
     margin-top: 30px;
+    margin-bottom: 5px;
   
     .post-header-container {
       display: flex;

@@ -17,8 +17,8 @@ export default class App extends Component {
       },
       {
         id: 2,
-        name: 'Marcio Barbosa',
-        avatar: 'https://http2.mlstatic.com/foto-desenho-para-o-seu-perfil-das-redes-sociais-D_NQ_NP_848819-MLB27185740300_042018-F.jpg',
+        name: 'Alice Silva',
+        avatar: 'https://cdn.awsli.com.br/1000x1000/932/932769/produto/34757351/d0b0b6d416.jpg',
         time: 'há 27 min',
         body:
           'Pellentesque, lacinia dui sed, ultricies sapien. Pellentesque orci lectus, consectetur vel posuere posuere, rutrum eu ipsum.',
@@ -26,7 +26,7 @@ export default class App extends Component {
       {
         id: 2,
         name: 'Felipe Lima',
-        avatar: 'https://http2.mlstatic.com/foto-desenho-para-o-seu-perfil-das-redes-sociais-D_NQ_NP_848819-MLB27185740300_042018-F.jpg',
+        avatar: 'https://http2.mlstatic.com/foto-desenho-para-o-seu-perfil-das-redes-sociais-D_NQ_NP_614041-MLB27185740295_042018-O.jpg',
         time: 'há 46 min',
         body:
           'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ',
